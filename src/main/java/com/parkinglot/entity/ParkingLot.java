@@ -13,7 +13,4 @@ public class ParkingLot {
         this.totalSlots = n;
         this.parkingStrategy = parkingStrategy;
     }
-
-
-
 }
